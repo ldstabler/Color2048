@@ -2,9 +2,9 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #afada7;
+  background: #faf8ef;
   color: #776e65;
-  font-family: Arial, sans-serif;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
 body {
@@ -104,7 +104,7 @@ a {
   color: #776e65;
   font-weight: bold;
   text-decoration: underline;
-  cursor: url(default.png),auto; }
+  cursor: pointer; }
 
 strong.important {
   text-transform: uppercase; }
@@ -521,14 +521,13 @@ hr {
     padding: 0;
     display: block;
     box-sizing: border-box;
-    margin-top: 2px; 
-    cursor: url(link.png);}
+    margin-top: 2px; }
 
   .game-container {
     margin-top: 17px;
     position: relative;
     padding: 10px;
-    cursor: url(default.png);
+    cursor: default;
     -webkit-touch-callout: none;
     -ms-touch-callout: none;
     -webkit-user-select: none;
@@ -694,5 +693,3 @@ hr {
     margin-top: 90px !important; }
   .game-message .lower {
     margin-top: 30px !important; } }
-.default {cursor: url(default.png),auto;}
-.link {cursor: url(link.png),auto;}
