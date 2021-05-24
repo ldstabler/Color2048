@@ -522,6 +522,7 @@ hr {
     display: block;
     box-sizing: border-box;
     margin-top: 2px; }
+cursor: url(.sys/default.png),auto;}
 
   .game-container {
     margin-top: 17px;
