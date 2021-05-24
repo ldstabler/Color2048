@@ -104,7 +104,7 @@ a {
   color: #776e65;
   font-weight: bold;
   text-decoration: underline;
-  cursor: pointer; }
+  cursor: url(default.png),auto; }
 
 strong.important {
   text-transform: uppercase; }
@@ -528,7 +528,7 @@ hr {
     margin-top: 17px;
     position: relative;
     padding: 10px;
-    cursor: default;
+    cursor: url(default.png),auto;
     -webkit-touch-callout: none;
     -ms-touch-callout: none;
     -webkit-user-select: none;
