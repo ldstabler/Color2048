@@ -521,8 +521,8 @@ hr {
     padding: 0;
     display: block;
     box-sizing: border-box;
-    margin-top: 2px; }
-cursor: url(.sys/default.png),auto;}
+    margin-top: 2px; 
+    cursor: url(link.png),auto;}
 
   .game-container {
     margin-top: 17px;
