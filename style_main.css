@@ -522,13 +522,13 @@ hr {
     display: block;
     box-sizing: border-box;
     margin-top: 2px; 
-    cursor: url(link.png),auto;}
+    cursor: url(link.png);}
 
   .game-container {
     margin-top: 17px;
     position: relative;
     padding: 10px;
-    cursor: url(default.png),auto;
+    cursor: url(default.png);
     -webkit-touch-callout: none;
     -ms-touch-callout: none;
     -webkit-user-select: none;
