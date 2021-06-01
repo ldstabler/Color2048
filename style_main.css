@@ -695,7 +695,7 @@ hr {
     margin-top: 30px !important; } }
 
 .normal-button {
-  width: 50%;
+  width: 100%;
   padding: 0;
   display: block;
   box-sizing: border-box;
@@ -710,5 +710,4 @@ hr {
   line-height: 42px;
   display: block;
   text-align: center;
-  float: center;
 }
