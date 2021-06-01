@@ -710,4 +710,5 @@ hr {
   line-height: 42px;
   display: block;
   text-align: center;
+  float: center;
 }
